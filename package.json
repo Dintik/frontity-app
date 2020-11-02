@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "my-awesome-project",
   "version": "1.0.0",
   "private": true,
   "description": "Frontity project",
@@ -22,6 +22,6 @@
     "@frontity/wp-source": "^1.9.1",
     "@frontity/tiny-router": "^1.2.2",
     "@frontity/html2react": "^1.4.0",
-    "@frontity/mars-theme": "./packages/mars-theme"
+    "@frontity/twentytwenty-theme": "./packages/twentytwenty-theme"
   }
 }

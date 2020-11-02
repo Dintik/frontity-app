@@ -1,5 +1,5 @@
 const settings = {
-  "name": "my-app",
+  "name": "my-awesome-project",
   "state": {
     "frontity": {
       "url": "https://test.frontity.org",
@@ -9,7 +9,7 @@ const settings = {
   },
   "packages": [
     {
-      "name": "@frontity/mars-theme",
+      "name": "@frontity/twentytwenty-theme",
       "state": {
         "theme": {
           "menu": [
@@ -18,12 +18,16 @@ const settings = {
               "/"
             ],
             [
-              "Happy ",
-              "/happy/"
+              "Nature",
+              "/category/nature/"
             ],
             [
-              "Page2",
-              "/page-2/"
+              "Travel",
+              "/category/travel/"
+            ],
+            [
+              "Japan",
+              "/tag/japan/"
             ],
             [
               "About Us",
