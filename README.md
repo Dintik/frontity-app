@@ -1,4 +1,4 @@
-# my-awesome-project
+# cool-project
 
 This project was bootstrapped with [Frontity](https://frontity.org/).
 
