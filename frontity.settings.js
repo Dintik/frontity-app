@@ -1,5 +1,5 @@
 const settings = {
-  "name": "cool-project",
+  "name": "my-app",
   "state": {
     "frontity": {
       "url": "https://test.frontity.org",
@@ -9,7 +9,7 @@ const settings = {
   },
   "packages": [
     {
-      "name": "codenawis-theme",
+      "name": "@frontity/twentytwenty-theme",
       "state": {
         "theme": {
           "menu": [
